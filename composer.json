@@ -16,7 +16,8 @@
         "source": "https://github.com/libref/collections/tree/develop"
     },
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=7.1.0",
+        "libcon/collections": "0.x-dev"
     },
     "require-dev": {
         "jakub-onderka/php-console-highlighter": "^0.3.2",
